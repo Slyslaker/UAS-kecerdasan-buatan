@@ -28,7 +28,6 @@ UAS-KecerdasanBuatan/
     - Support Vector Machine (SVM)
     - Naive Bayes
 6. Model diuji menggunakan confusion matrix dan metrik evaluasi seperti accuracy, precision, recall, dan f1-score.
-7. Hasil dan insight disusun dalam laporan utama.
 
-## Referensi Jurnal Ilmiah
-Tercantum dalam file laporan utama (uas_ai.md)
+
+
