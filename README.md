@@ -4,8 +4,8 @@
 Klasifikasi Jenis Bunga Iris Menggunakan Berbagai Algoritma Machine Learning
 
 ## Kelompok
-- Nama 1
-- Nama 2
+- Nama: Sulthan rafi syauqi
+- NIM : 2306055
 
 ## Struktur Folder
 ```
