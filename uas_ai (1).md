@@ -10,7 +10,7 @@
 - Manfaat: Mempermudah klasifikasi bunga secara cepat dan akurat.
 
 ## 3. Data Understanding
-- Sumber data: Dataset publik "Iris" (biasa tersedia di Kaggle, UCI, dsb).
+- Sumber data: Dataset publik "Iris"
 - Fitur:
   - SepalLengthCm
   - SepalWidthCm
